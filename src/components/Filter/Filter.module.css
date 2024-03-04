@@ -1,0 +1,14 @@
+.search_container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.search_input {
+  width: 50%;
+  font-size: 18px;
+  border-radius: 8px;
+  border-color: rgb(2, 2, 50);
+  margin-top: 16px;
+}
